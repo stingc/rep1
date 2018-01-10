@@ -1,0 +1,4 @@
+
+rename local branch from master_local to m2
+watch if the remote branch is created for m2, or mapped without renewing a branch named m2.
+
